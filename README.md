@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)
 [![CI](https://github.com/GandalFran/dephook/actions/workflows/ci.yml/badge.svg)](https://github.com/GandalFran/dephook/actions/workflows/ci.yml)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/GandalFran/dephook/compare)
 
 
 A lightweight CLI focused on security & visibility of dependencies, inspecting Node.js projects for install/prepare hooks and binaries. Find out what dependencies are running scripts during install, why they are present, and what binaries they expose.

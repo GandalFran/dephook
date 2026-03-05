@@ -1,7 +1,11 @@
 # 🛡️ dephook
 
 [![npm version](https://badge.fury.io/js/dephook.svg)](https://badge.fury.io/js/dephook)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)
+[![CI](https://github.com/GandalFran/deephook/actions/workflows/ci.yml/badge.svg)](https://github.com/GandalFran/deephook/actions/workflows/ci.yml)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+
 
 A lightweight CLI focused on security & visibility of dependencies, inspecting Node.js projects for install/prepare hooks and binaries. Find out what dependencies are running scripts during install, why they are present, and what binaries they expose.
 

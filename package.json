@@ -1,6 +1,6 @@
 {
   "name": "dephook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI focused on security & visibility of dependencies, inspecting Node.js projects for install/prepare hooks and binaries.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

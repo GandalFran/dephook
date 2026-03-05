@@ -3,7 +3,7 @@
 [![npm version](https://badge.fury.io/js/dephook.svg)](https://badge.fury.io/js/dephook)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)
-[![CI](https://github.com/GandalFran/deephook/actions/workflows/ci.yml/badge.svg)](https://github.com/GandalFran/deephook/actions/workflows/ci.yml)
+[![CI](https://github.com/GandalFran/dephook/actions/workflows/ci.yml/badge.svg)](https://github.com/GandalFran/dephook/actions/workflows/ci.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 
